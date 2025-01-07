@@ -4,7 +4,7 @@ An open-source RP2040-based universal IR remote control, designed as as open-sou
 ## Parts Needed:
 - Raspberry Pi Pico or similar RP2040 clone board
 - IR LED
-- SPI Display (specifics TBA)
+- SPI LCD Display (specifics TBA)
 - 3D Printed Case
 
 
