@@ -16,3 +16,7 @@ TBA
 
 ## Uploading New Remote Codes
 TBA
+
+## TODO
+- Build first prototype
+- Figure out how many IR codes can be loaded into firmware at once
